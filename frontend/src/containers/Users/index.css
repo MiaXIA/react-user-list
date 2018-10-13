@@ -1,0 +1,13 @@
+.root {
+    padding: 20px;
+    margin: 20px;
+    height: 100%;
+}
+
+.tableWrapper {
+    overflow-x: auto,
+}
+
+.materialTable {
+    min-width: 1020;
+}
